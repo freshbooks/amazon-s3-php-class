@@ -1,3 +1,5 @@
+This is a fork of tpyo’s php class for Amazon's s3 API <https://github.com/tpyo/amazon-s3-php-class>
+
 # Amazon S3 PHP Class
 
 ## Usage
